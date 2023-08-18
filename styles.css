@@ -76,4 +76,8 @@ body {
     .mobile-name-text {
         display: none;
     }
+
+    .middle {
+        margin-left: 90px;
+    }
 }
