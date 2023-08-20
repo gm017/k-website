@@ -53,6 +53,11 @@ body {
         margin-top: 0px;
     }
 
+
+    .blue-painting {
+        display: none;
+    }
+
     .content-container {
         padding: 15px;
         margin: 0px;
